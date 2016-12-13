@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/ProtoTypeScene.unity
+- path: Assets/Prefab/HomepageScene.unity
   isLoaded: 1
   isActive: 1
